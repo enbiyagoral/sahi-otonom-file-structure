@@ -17,6 +17,10 @@ Bu klasör, ROS uygulamalarını başlatmak ve yapılandırmak için kullanılan
 
 Bu klasör, ROS uygulamasının çalışması için gerekli olan betik dosyalarını içerir. Betik dosyaları, özel algoritmaları veya işlevleri gerçekleştirmek için kullanılabilir.
 
+## src
+
+Bu klasör, projenin kaynak kodlarını içerir. ROS düğümleri, hizmetler, yayıncılar ve diğer bileşenler burada bulunur. Otonom araç fonksiyonlarını gerçekleştirmek için geliştirilmiş ROS paketleri bu klasör altında yer alabilir.
+
 ---
 
 Bu proje ROS tabanlı bir otonom araç geliştirmek için bir temel sağlamaktadır. Daha fazla bilgi için lütfen [ROS Dokümantasyonu](http://wiki.ros.org/)na bakınız.
